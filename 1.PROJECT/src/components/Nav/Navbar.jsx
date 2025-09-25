@@ -10,15 +10,15 @@ const Navbar = () => {
 
                 <ul className='flex space-x-14 text-xl'>
                     <li>
-                        <a href="">home</a>
+                        <a href="">Home</a>
 
                     </li>
                     <li> 
-                        <a href="">services</a>
+                        <a href="">Services</a>
                         
                         </li>
                     <li>
-                        <a href="">contact</a></li>
+                        <a href="">contacts</a></li>
                 
                 </ul>
                      <div>
