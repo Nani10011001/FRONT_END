@@ -25,8 +25,8 @@ setObj((prev)=>({
     <div>
 
 {/* input filed data acessing */}
-<input type="text" onChange={e=>setValue(e.target.value)} />
-<h2>input feild:{value}</h2>
+<input type="text"  onChange={e=>setValue(e.target.value)} />
+<h2>input data value:{value}</h2>
 
 
 {/* normal way of updating the state */}
