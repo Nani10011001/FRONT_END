@@ -9,7 +9,7 @@ const UseEffect = () =>
         setCount(count+1)
     }
     useEffect(()=>{
-        document.title=`${count2} counts`// its two  parameter one callback and another is dependencis without  the dependcis its update w
+        document.title=`${count2} counts`// its two  parameter one callback and another is dependencis without  the dependcis its update 
     },[count2])// if we add the dependencis[value in it] its update the value.  callback its update each
    
   
@@ -17,8 +17,8 @@ const UseEffect = () =>
 
     <div>
      
-      <button onClick={increament}>increament</button>
-      <button onClick={()=>setCount2(count2+1)}>increament2</button>
+      <button onClick={increament}>Increment</button>
+      <button onClick={()=>setCount2(count2+1)}>Increament2</button>
     
     </div>
   )
