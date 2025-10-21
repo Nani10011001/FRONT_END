@@ -10,7 +10,7 @@ const UseEffect = () =>
     }
     useEffect(()=>{
         document.title=`${count2} counts`// its two  parameter one callback and another is dependencis without  the dependcis its update 
-    },[count2])// if we add the dependencis[value in it] its update the value.  callback its update each
+    },[count2])// if we add the dependencis[value in it] its update the value.  callback its update each time
    
   
   return (
