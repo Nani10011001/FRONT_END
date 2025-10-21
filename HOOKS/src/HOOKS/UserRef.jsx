@@ -4,7 +4,7 @@ const UserRef = () => {
     const inputfile=useRef()
     console.log(inputfile)
     const handleInput=()=>{
-    inputfile.current.style.width="250px"
+    inputfile.current.style.width="350px"
     inputfile.current.focus()
     }
   return (
