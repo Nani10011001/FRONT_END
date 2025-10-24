@@ -14,7 +14,7 @@ const Hero_comp = () => {
 <div className='text-white w-1/3 px-10 '>
   <h1 className='text-3xl mb-3'>01______</h1>
   <h1 className='text-5xl font-bold font-sans  mb-10'>A healthy fruit</h1>
-  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas repellat beatae, iste impedit harum vitae. Ut debitis molestiae asperiores adipisci!
+  <p>Lorem ipsum dolor sit amet construction of it adipisicing elit. Voluptas repellat beatae, iste impedit harum vitae. Ut debitis molestiae asperiores adipisci!
   </p>
   <button className='border-white  px-3 py-2 rounded-[3px]  border-2  mt-4'>shop now</button>
 </div>
