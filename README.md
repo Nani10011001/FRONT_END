@@ -1,3 +1,8 @@
+!.PROJECT:
+<img width="1802" height="860" alt="image" src="https://github.com/user-attachments/assets/6dfec8c2-1641-4d39-800d-96e747a275f6" />
+
+
+HOOKSPROJECT:
 ⚛️ Frontend Learning (React + Hooks + Vite)
 
 This repository contains my hands-on learning and projects built using **React.js, Vite, and modern React Hooks**.
